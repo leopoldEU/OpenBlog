@@ -1,6 +1,6 @@
 ### OpenBlog
 
-This Github repository contains the code for an open blog post website, where users can create and publish their own blog posts. The website is built using HTML, CSS, and JavaScript, and it uses Flask on the backend.
+This Github repository hosts the source code for an innovative open blog post website, that provides a platform for users to create and publish their own unique and captivating blog posts. The website has been crafted using a combination of HTML, CSS, and JavaScript, with a backend architecture powered by Flasks.
 
 ### Features
 Building status
